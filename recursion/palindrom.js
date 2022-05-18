@@ -1,5 +1,5 @@
 // time complexity is o(n)
-let palin_str = "acbba"
+let palin_str = "acba"
 
 function palindrom(strr, i, j){
     if (i >= j){

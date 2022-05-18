@@ -1,4 +1,4 @@
-
+// this is also a subsequence as it is following order and not contineous
 let subsett = "abc";
 // console.log(subsett.length)
 
