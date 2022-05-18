@@ -1,3 +1,4 @@
+// time complexity is o(n)
 let palin_str = "acbba"
 
 function palindrom(strr, i, j){
